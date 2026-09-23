@@ -1,0 +1,90 @@
+{
+ "input_shares": {
+  "PVLP069_L(acet)": {
+   "exc_input_syn": 5361,
+   "from_LC4_LPLC2": 0.906
+  },
+  "PVLP069_R(acet)": {
+   "exc_input_syn": 4674,
+   "from_LC4_LPLC2": 0.898
+  },
+  "DNge031_L(gaba)": {
+   "exc_input_syn": 5340,
+   "from_LC4_LPLC2": 0.0
+  },
+  "DNge031_R(gaba)": {
+   "exc_input_syn": 6547,
+   "from_LC4_LPLC2": 0.0
+  },
+  "GNG119_R(gaba)": {
+   "exc_input_syn": 4536,
+   "from_LC4_LPLC2": 0.0
+  },
+  "GNG119_L(gaba)": {
+   "exc_input_syn": 1577,
+   "from_LC4_LPLC2": 0.0
+  }
+ },
+ "MN9_L_top_inputs": [
+  {
+   "pre": "DNge062_R(acet)",
+   "syn": 464
+  },
+  {
+   "pre": "GNG120_R(acet)",
+   "syn": 359
+  },
+  {
+   "pre": "GNG130_L(gaba)",
+   "syn": -357
+  },
+  {
+   "pre": "GNG095_L(gaba)",
+   "syn": -351
+  },
+  {
+   "pre": "GNG108_R(acet)",
+   "syn": 348
+  },
+  {
+   "pre": "GNG015_L(gaba)",
+   "syn": -266
+  },
+  {
+   "pre": "GNG117_L(acet)",
+   "syn": 241
+  },
+  {
+   "pre": "GNG180_L(gaba)",
+   "syn": -214
+  },
+  {
+   "pre": "GNG234_L(acet)",
+   "syn": 198
+  },
+  {
+   "pre": "GNG184_L(gaba)",
+   "syn": -187
+  },
+  {
+   "pre": "GNG015_R(gaba)",
+   "syn": -177
+  },
+  {
+   "pre": "GNG117_R(acet)",
+   "syn": 160
+  },
+  {
+   "pre": "DNge051_L(gaba)",
+   "syn": -142
+  },
+  {
+   "pre": "GNG234_R(acet)",
+   "syn": 136
+  },
+  {
+   "pre": "DNge080_L(acet)",
+   "syn": 101
+  }
+ ]
+}

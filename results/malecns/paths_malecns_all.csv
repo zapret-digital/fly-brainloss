@@ -1,0 +1,15 @@
+from,to,cost,hops,path,signs,net_sign
+PVLP069_L(acet),MN9_L,13.77,3,PVLP069_L(acet) > CL213_L(acet) > DNg74_a_R(gaba) > MN9_L(acet),++-,-
+PVLP069_R(acet),MN9_L,13.48,3,PVLP069_R(acet) > CL213_R(acet) > DNg74_a_R(gaba) > MN9_L(acet),++-,-
+DNge031_L(gaba),MN9_L,7.09,1,DNge031_L(gaba) > MN9_L(acet),-,-
+DNge031_R(gaba),MN9_L,7.3,2,DNge031_R(gaba) > GNG108_R(acet) > MN9_L(acet),-+,-
+GNG119_R(gaba),MN9_L,7.66,2,GNG119_R(gaba) > GNG108_R(acet) > MN9_L(acet),-+,-
+GNG119_L(gaba),MN9_L,6.86,2,GNG119_L(gaba) > GNG108_R(acet) > MN9_L(acet),-+,-
+PVLP069_L(acet),DNge031_L(gaba),12.45,2,PVLP069_L(acet) > pIP1_L(acet) > DNge031_L(gaba),++,+
+PVLP069_L(acet),DNge031_R(gaba),13.81,2,PVLP069_L(acet) > pIP1_L(acet) > DNge031_R(gaba),++,+
+PVLP069_L(acet),GNG119_R(gaba),10.8,2,PVLP069_L(acet) > CL213_L(acet) > GNG119_R(gaba),++,+
+PVLP069_L(acet),GNG119_L(gaba),11.48,2,PVLP069_L(acet) > CL213_L(acet) > GNG119_L(gaba),++,+
+PVLP069_R(acet),DNge031_L(gaba),13.1,3,PVLP069_R(acet) > CL213_R(acet) > GNG113_R(gaba) > DNge031_L(gaba),++-,-
+PVLP069_R(acet),DNge031_R(gaba),14.0,3,PVLP069_R(acet) > WED195_L(gaba) > GNG494_R(acet) > DNge031_R(gaba),+-+,-
+PVLP069_R(acet),GNG119_R(gaba),11.06,2,PVLP069_R(acet) > CL213_R(acet) > GNG119_R(gaba),++,+
+PVLP069_R(acet),GNG119_L(gaba),11.5,2,PVLP069_R(acet) > AVLP491_R(acet) > GNG119_L(gaba),++,+

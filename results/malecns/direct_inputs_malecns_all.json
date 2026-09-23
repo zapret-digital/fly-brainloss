@@ -1,0 +1,95 @@
+{
+ "eat": {
+  "stimulus": "sugar",
+  "readouts": {
+   "MN9_L": {
+    "direct_share_of_excitatory_input": 0.0,
+    "fewest_excitatory_links": 2
+   },
+   "MN9_R": {
+    "direct_share_of_excitatory_input": 0.0,
+    "fewest_excitatory_links": 2
+   }
+  }
+ },
+ "escape": {
+  "stimulus": "loom",
+  "readouts": {
+   "DNp01_L": {
+    "direct_share_of_excitatory_input": 0.478,
+    "fewest_excitatory_links": 1
+   },
+   "DNp01_R": {
+    "direct_share_of_excitatory_input": 0.471,
+    "fewest_excitatory_links": 1
+   }
+  }
+ },
+ "turn_away": {
+  "stimulus": "loomL",
+  "readouts": {
+   "DNa01_R": {
+    "direct_share_of_excitatory_input": 0.0,
+    "fewest_excitatory_links": 2
+   },
+   "DNa02_R": {
+    "direct_share_of_excitatory_input": 0.0,
+    "fewest_excitatory_links": 2
+   }
+  }
+ },
+ "turn_to": {
+  "stimulus": "lc10L",
+  "readouts": {
+   "DNa02_L": {
+    "direct_share_of_excitatory_input": 0.0,
+    "fewest_excitatory_links": 2
+   }
+  }
+ },
+ "head": {
+  "stimulus": "head",
+  "readouts": {
+   "DNg15_L": {
+    "direct_share_of_excitatory_input": 0.403,
+    "fewest_excitatory_links": 1
+   },
+   "DNg15_R": {
+    "direct_share_of_excitatory_input": 0.455,
+    "fewest_excitatory_links": 1
+   },
+   "DNg35_L": {
+    "direct_share_of_excitatory_input": 0.198,
+    "fewest_excitatory_links": 1
+   },
+   "DNg35_R": {
+    "direct_share_of_excitatory_input": 0.187,
+    "fewest_excitatory_links": 1
+   },
+   "DNg84_L": {
+    "direct_share_of_excitatory_input": 0.389,
+    "fewest_excitatory_links": 1
+   },
+   "DNg84_R": {
+    "direct_share_of_excitatory_input": 0.418,
+    "fewest_excitatory_links": 1
+   },
+   "DNg85_L": {
+    "direct_share_of_excitatory_input": 0.609,
+    "fewest_excitatory_links": 1
+   },
+   "DNg85_R": {
+    "direct_share_of_excitatory_input": 0.686,
+    "fewest_excitatory_links": 1
+   },
+   "DNg48_L": {
+    "direct_share_of_excitatory_input": 0.604,
+    "fewest_excitatory_links": 1
+   },
+   "DNg48_R": {
+    "direct_share_of_excitatory_input": 0.529,
+    "fewest_excitatory_links": 1
+   }
+  }
+ }
+}

@@ -1,0 +1,2 @@
+graph,w,mode,eat,eat_status,eat_at_max,bitter,bitter_status,bitter_at_max,escape,escape_status,escape_at_max,turn_away,turn_away_status,turn_away_at_max,turn_to,turn_to_status,turn_to_at_max,head,head_status,head_at_max
+flywire_ge5,1.0,A,19.3,crossed,0.0,,unmeasurable,,,never,0.9877779999999998,53.4,crossed,0.0,79.5,crossed,0.0,,never,1.210235687584417

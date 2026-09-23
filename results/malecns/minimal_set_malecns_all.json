@@ -1,0 +1,138 @@
+{
+ "last_passing_set": [
+  "DNp04_L",
+  "DNp04_R",
+  "PVLP069_L",
+  "PVLP069_R",
+  "DNp103_R",
+  "PVLP151_L",
+  "PVLP151_R",
+  "DNp103_L",
+  "AMMC-A1_L",
+  "DNp02_L",
+  "AMMC-A1_R",
+  "DNp11_L",
+  "AMMC-A1_L",
+  "DNp02_R",
+  "<NA>_L",
+  "AMMC-A1_L",
+  "DNp03_L"
+ ],
+ "size": 17,
+ "idx": [
+  133740,
+  1052,
+  2270,
+  2762,
+  261,
+  2127,
+  1565,
+  384,
+  15,
+  178,
+  132,
+  238,
+  12,
+  103,
+  7861,
+  236,
+  696
+ ],
+ "note": "passed = MN9 under looming >= 70 % of sugar alone in at least 2 of 3 flies; compare s80_l100 with s80 in steps to see how far feeding comes back",
+ "steps": [
+  {
+   "size": 35,
+   "halves": [
+    {
+     "n": 17,
+     "types": [
+      "DNp04_L",
+      "DNp04_R",
+      "PVLP069_L",
+      "PVLP069_R",
+      "DNp103_R",
+      "PVLP151_L",
+      "PVLP151_R",
+      "DNp103_L",
+      "AMMC-A1_L",
+      "DNp02_L",
+      "AMMC-A1_R",
+      "DNp11_L",
+      "AMMC-A1_L",
+      "DNp02_R",
+      "<NA>_L",
+      "AMMC-A1_L",
+      "DNp03_L"
+     ],
+     "s80": 18.7,
+     "s80_l100": 8.7,
+     "restored_share": 0.67
+    },
+    {
+     "n": 18,
+     "types": [
+      "PVLP151_L",
+      "DNp11_R",
+      "AVLP500_R",
+      "PVLP151_R",
+      "DNp06_L",
+      "PVLP122_R",
+      "<NA>_R",
+      "AMMC-A1_R",
+      "<NA>_R",
+      "PVLP122_L",
+      "PVLP122_R",
+      "AMMC-A1_R",
+      "DNp06_R",
+      "<NA>_R",
+      "PVLP122_L",
+      "<NA>_L",
+      "AVLP500_L",
+      "<NA>_L"
+     ],
+     "s80": 18.0,
+     "s80_l100": 7.7,
+     "restored_share": 0.67
+    }
+   ]
+  },
+  {
+   "size": 17,
+   "halves": [
+    {
+     "n": 8,
+     "types": [
+      "DNp04_L",
+      "DNp04_R",
+      "PVLP069_L",
+      "PVLP069_R",
+      "DNp103_R",
+      "PVLP151_L",
+      "PVLP151_R",
+      "DNp103_L"
+     ],
+     "s80": 18.7,
+     "s80_l100": 5.0,
+     "restored_share": 0.0
+    },
+    {
+     "n": 9,
+     "types": [
+      "AMMC-A1_L",
+      "DNp02_L",
+      "AMMC-A1_R",
+      "DNp11_L",
+      "AMMC-A1_L",
+      "DNp02_R",
+      "<NA>_L",
+      "AMMC-A1_L",
+      "DNp03_L"
+     ],
+     "s80": 18.0,
+     "s80_l100": 5.7,
+     "restored_share": 0.33
+    }
+   ]
+  }
+ ]
+}

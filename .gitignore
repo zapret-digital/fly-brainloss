@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+data/
+build/
+engine/*.dll
+engine/*.dylib
+engine/*.so
+engine/*.pdb
+engine/*.lib
+results/**/*.jsonl
+results/stale/
+results/*.txt
